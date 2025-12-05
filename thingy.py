@@ -1,0 +1,6 @@
+name = input("hello what is your name?:")
+print(f"hi {name} how are you feeling today")
+emotion = input("")
+print(f"so what happened to make you feel {emotion} today?")
+answer1 = input("")
+print(f"so you feel {emotion} because {answer1} happened today?")

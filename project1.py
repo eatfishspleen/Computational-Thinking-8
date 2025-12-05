@@ -1,0 +1,11 @@
+print("Hi my name is dave")
+name = input("What is your name?:")
+print(f"Hi {name} how are you feeling today?")
+emotion = input("")
+print(f" what happened to make you feel {emotion} today?")
+answer1 = input("")
+print(f"So you feel {emotion} because {answer1} happened today?")
+rate = input("so how would you rate my conversation skills from 1-10")
+print(f" {rate} REALLY WHY? HOW DO I DESERVE THIS!!! answer bellow please")
+answer2 = input (":")
+print
